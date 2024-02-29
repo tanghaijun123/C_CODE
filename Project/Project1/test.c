@@ -1,5 +1,6 @@
 #include<stdio.h>
 extern int c;
+int t = 5;
 int c = 4;
 typedef unsigned int u_int;
 extern int add(int x, int y);
