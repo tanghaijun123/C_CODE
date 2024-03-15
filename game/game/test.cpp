@@ -1,12 +1,14 @@
 #include<stdio.h>
 #include"game.h"
+
 void menu() 
 {
 	printf("********************\n");
 	printf("********1.play *****\n");
-	printf("********2.exit******\n");
+	printf("********0.exit******\n");
 	printf("********************\n");
 }
+
 void game() 
 {
 	char board[ROW][COL];
@@ -15,6 +17,7 @@ void game()
 	char ret = 0;
 	while (1)
 	{
+		displayboard(board, ROW, COL);
 		playermove(board,ROW,COL);
 		displayboard(board,ROW,COL);
 		 ret=iswin(board,ROW,COL);
