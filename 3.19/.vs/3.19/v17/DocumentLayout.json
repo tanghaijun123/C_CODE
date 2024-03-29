@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\code\\C_CODE\\3.19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFCB58CE-2694-4C0F-B366-4F2A02186FE4}|3.19\\3.19.vcxproj|D:\\code\\C_CODE\\3.19\\3.19\\319.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFCB58CE-2694-4C0F-B366-4F2A02186FE4}|3.19\\3.19.vcxproj|solutionrelative:3.19\\319.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFCB58CE-2694-4C0F-B366-4F2A02186FE4}|3.19\\3.19.vcxproj|D:\\code\\C_CODE\\3.19\\3.19\\c\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CFCB58CE-2694-4C0F-B366-4F2A02186FE4}|3.19\\3.19.vcxproj|solutionrelative:3.19\\c\u002B\u002B.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "c\u002B\u002B.cpp",
+              "DocumentMoniker": "D:\\code\\C_CODE\\3.19\\3.19\\c\u002B\u002B.cpp",
+              "RelativeDocumentMoniker": "3.19\\c\u002B\u002B.cpp",
+              "ToolTip": "D:\\code\\C_CODE\\3.19\\3.19\\c\u002B\u002B.cpp",
+              "RelativeToolTip": "3.19\\c\u002B\u002B.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-20T12:03:01.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "319.cpp",
+              "DocumentMoniker": "D:\\code\\C_CODE\\3.19\\3.19\\319.cpp",
+              "RelativeDocumentMoniker": "3.19\\319.cpp",
+              "ToolTip": "D:\\code\\C_CODE\\3.19\\3.19\\319.cpp",
+              "RelativeToolTip": "3.19\\319.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-19T03:01:33.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
