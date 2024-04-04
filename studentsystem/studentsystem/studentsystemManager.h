@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include<conio.h>
 
-//学生信息
+
 typedef struct _Student
 {
 	int stuNum;
@@ -16,3 +17,5 @@ typedef struct _Node
 	struct _Node* next;
 	
 }Node;
+void welcome();
+void inputStudent(Node* head);
